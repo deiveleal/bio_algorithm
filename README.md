@@ -44,7 +44,7 @@ They offer robust solutions for problems where traditional methods fail, especia
 │   └── Healthcare/  
 ├── Datasets/  
 ├── Tutorials/  
-└── Contributing.md  
+└── README.md  
 ```  
 
 ### 🤝 **Contribute!**  
@@ -101,7 +101,7 @@ Eles oferecem soluções robustas para problemas onde métodos tradicionais falh
 │   └── Healthcare/  
 ├── Datasets/  
 ├── Tutorials/  
-└── Contributing.md  
+└── README.md  
 ```  
 
 ### 🤝 **Contribua!**  
